@@ -25,6 +25,7 @@ var sketch2 = function(p) {
 
     p.draw = function() {
         p.background(0, 0, 51);
+        
     };
 };
 
